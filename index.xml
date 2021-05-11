@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chen&#39;s Portfolio</title>
-    <link>https://github.com/Chen-Portfolio/My_Portfolio_Website/</link>
+    <link>https://chen-portfolio.github.io/My_Portfolio_Website/</link>
     <description>Recent content on Chen&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate><atom:link href="https://github.com/Chen-Portfolio/My_Portfolio_Website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate><atom:link href="https://chen-portfolio.github.io/My_Portfolio_Website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aliquam</title>
-      <link>https://github.com/Chen-Portfolio/My_Portfolio_Website/blogs/aliquam/</link>
+      <link>https://chen-portfolio.github.io/My_Portfolio_Website/blogs/aliquam/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>https://github.com/Chen-Portfolio/My_Portfolio_Website/blogs/aliquam/</guid>
+      <guid>https://chen-portfolio.github.io/My_Portfolio_Website/blogs/aliquam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tempus</title>
-      <link>https://github.com/Chen-Portfolio/My_Portfolio_Website/blogs/tempus/</link>
+      <link>https://chen-portfolio.github.io/My_Portfolio_Website/blogs/tempus/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
-      <guid>https://github.com/Chen-Portfolio/My_Portfolio_Website/blogs/tempus/</guid>
+      <guid>https://chen-portfolio.github.io/My_Portfolio_Website/blogs/tempus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magna</title>
-      <link>https://github.com/Chen-Portfolio/My_Portfolio_Website/blogs/magna/</link>
+      <link>https://chen-portfolio.github.io/My_Portfolio_Website/blogs/magna/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
-      <guid>https://github.com/Chen-Portfolio/My_Portfolio_Website/blogs/magna/</guid>
+      <guid>https://chen-portfolio.github.io/My_Portfolio_Website/blogs/magna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ipsum</title>
-      <link>https://github.com/Chen-Portfolio/My_Portfolio_Website/blogs/ipsum/</link>
+      <link>https://chen-portfolio.github.io/My_Portfolio_Website/blogs/ipsum/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>https://github.com/Chen-Portfolio/My_Portfolio_Website/blogs/ipsum/</guid>
+      <guid>https://chen-portfolio.github.io/My_Portfolio_Website/blogs/ipsum/</guid>
       <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
     </item>
     
